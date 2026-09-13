@@ -1,0 +1,14 @@
+# Entorno virtual
+.venv/
+
+# Modelos descargados
+*.xml
+*.tflite
+*.onnx
+*.pt
+
+# Reportes CSV generados localmente
+reportes/
+
+# Archivos de caché de Python
+__pycache__/
